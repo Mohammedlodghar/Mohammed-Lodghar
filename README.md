@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mohammed653
+- 👋 Hi, I’m Mohammed Lodghar
+- 
 - 👀 I’m interested in blockchain development,iot project management,machine learning and graphic designing.
 - 🌱 I’m currently learning blockchain development and machine learning.
 - 💞️ I’m looking to collaborate on iot projects and innovative projects.
